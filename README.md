@@ -163,7 +163,7 @@ CLIENT_URL=http://localhost:5173
 
 ```bash
 # Clone Repo
-[https://github.com/Abhishek-Singh5/full_stack_user_authentication_project.git]
+[https://github.com/Aadi114974/full_stack_user_authentication_project.git]
 
 # Backend Setup
 cd server
@@ -197,7 +197,7 @@ npm run dev
 ## 💬 Support
 
 - Raise an Issue on GitHub
-- Contact: [singhabhishek4686@gmail.com](mailto\:your.email@example.com)
+- Contact: [aadityaraazmth@gmail.com](mailto\:your.email@example.com)
 
 ---
 
